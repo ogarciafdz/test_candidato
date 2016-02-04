@@ -1,0 +1,22 @@
+/*li:hover {*/
+	/*background-color: tomato;*/
+	/*transition: 0.7s;*/
+	/*cursor: pointer;*/
+/*}*/
+
+li:nth-child(2n){
+
+
+	background-color: black;
+	opacity: 0.3;
+	color: white;
+	filter: alpha(opacity=10);
+
+	/*transition: 0.7s;*/
+	/*cursor: pointer;*/
+
+}
+
+span{
+	float: right;
+}
